@@ -1,4 +1,4 @@
 @font-face {
   font-family: 'Magical Night';
-  src: url('https://github.com/ivanadito-ap/web/raw/main/MagicalNight.ttf');
+  src: url('https://raw.githubusercontent.com/ivanadito-ap/web/main/MagicalNight.ttf');
 }
